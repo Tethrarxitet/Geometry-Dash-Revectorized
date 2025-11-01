@@ -14,7 +14,11 @@ If you want to help contribute, you can! Just create a fork of this repository, 
 
 ## Rules for contribution
 * The file must be saved as an .fla.
+
 ** Files can be saved as an .svg if it's really accurate.
+
 * Files must have the original sheet name. For example, `GJ_GameSheet03.png` should be saved as `GJ_GameSheet03.fla`. Do not include the `-hd` or `-uhd` suffix.
+
 ** If the files are standalone, like the `dialogIcon` images, the filename has to be something that says what the vectorized assets are - such as `dialogIcons.fla`.
+
 * Images should not be vectorized by Adobe Animate's Trace button.
