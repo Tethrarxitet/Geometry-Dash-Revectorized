@@ -1,4 +1,4 @@
-![Geometry Dash Revectorized](readme/GJ_revectorizedLogo_001.png)
+![Geometry Dash Revectorized](.readme/GJ_revectorizedLogo_001.png)
 
 Everyone knows that RobTop doesn't want to release his art files, so it's up to us to recreate them in all of their vector glory.
 
