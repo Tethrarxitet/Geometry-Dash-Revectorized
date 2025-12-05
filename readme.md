@@ -4,7 +4,7 @@ Everyone knows that RobTop doesn't want to release his art files, so it's up to 
 
 **Geometry Dash Revectorized** is a collaboration project that focuses on vectorizing every asset that RobTop has created for Geometry Dash.
 
-If you're interested in tracing assets for any of his other games, go to [others/](others/), where you and other people can help trace assets for Boomlings, Boomlings Matchup, and Memory Mastermind, as well as other beta assets, such as from Forlorn, the Level End trigger from 1.0-1.9, images from press kits, and other unused assets. You can find those in [others/miscAssets/](others/miscAssets/)!
+If you're interested in tracing assets for any of RobTop's games, go to [assets/](assets/), where you and other people can help trace assets for Boomlings, Boomlings Matchup, and Memory Mastermind, as well as other beta assets, such as from Forlorn, the Level End trigger from 1.0-1.9, images from press kits, and other unused assets. You can find those in [assets/miscAssets/](assets/miscAssets/).
 
 ## Our goal
 Our goal is to vectorize Geometry Dash assets for texture pack creators to 90%+ accuracy and make them open-source for everyone. Even the project logo is available to edit @ [GJ_revectorizedLogo.fla](GJ_revectorizedLogo.fla)!
