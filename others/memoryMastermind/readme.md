@@ -1,1 +1,1 @@
-
+These are revectorized assets from **Memory Mastermind**.
